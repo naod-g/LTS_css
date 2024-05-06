@@ -225,7 +225,9 @@ a:active{
 
 .main{
     padding: var(--PADDING-TB) var(--PADDING-SIDE);
-    width: 85%;
+    width: 80%;
+    margin: inherit;
+    
 }
 
 .houres{
